@@ -1,0 +1,16 @@
+# Logs
+logs
+*.log
+
+#temp files
+*~
+#compiled files
+build
+
+#editors
+.idea
+.vscode
+
+#installed typings for browser
+typings/browser
+typings/browser.d.ts
