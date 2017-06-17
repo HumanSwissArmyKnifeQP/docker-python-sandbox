@@ -14,5 +14,3 @@ build
 #installed typings for browser
 typings/browser
 typings/browser.d.ts
-
-
